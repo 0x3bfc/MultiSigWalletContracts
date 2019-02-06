@@ -1,5 +1,5 @@
 {
-  "name": "multisig-wallet-gnosis",
+  "name": "@oceanprotocol/multisigwallet",
   "version": "1.4.0",
   "description": "Main module, for installing all dependencies",
   "scripts": {
