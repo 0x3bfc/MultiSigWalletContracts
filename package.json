@@ -1,6 +1,6 @@
 {
   "name": "@oceanprotocol/multisigwallet",
-  "version": "1.4.0",
+  "version": "2.0.1",
   "description": "Main module, for installing all dependencies",
   "scripts": {
     "test": "echo null",
@@ -23,6 +23,6 @@
     }
   },
   "dependencies": {
-    "truffle": "^5.0.3"
+    "truffle": "^5.0.7"
   }
 }
