@@ -1,6 +1,6 @@
 {
   "name": "@oceanprotocol/multisigwallet",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Main module, for installing all dependencies",
   "scripts": {
     "test": "echo null",
