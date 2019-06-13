@@ -23,6 +23,10 @@
     }
   },
   "dependencies": {
-    "truffle": "^5.0.8"
+    "truffle": "^5.0.22"
+  },
+  "devDependencies": {
+    "truffle-hdwallet-provider": "^1.0.10",
+    "web3-provider-engine": "^15.0.0"
   }
 }
