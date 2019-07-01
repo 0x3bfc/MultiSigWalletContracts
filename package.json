@@ -1,6 +1,6 @@
 {
   "name": "@oceanprotocol/multisigwallet",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Ethereum MultiSignature Wallet. Main module, for installing all dependencies",
   "scripts": {
     "test": "echo null",
